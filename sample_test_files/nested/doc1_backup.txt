@@ -1,0 +1,2 @@
+This is an illustrative text file used to demonstrate duplicate file detection.
+It has exact matching content across multiple directory locations.
